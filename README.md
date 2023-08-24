@@ -9,6 +9,7 @@ Team Leader Email - ksharma7_be21@thapar.edu
 A Brief of the Prototype: This section must include UML Diagrams and prototype description
 
 UML Diagrams
+![image](https://github.com/sharma-kshitij-ks/Empowering-Investors-Hackathon/assets/124446613/500c85a7-b31f-496a-ae57-bb7348c45311)
 
 Prototype Description:
 
