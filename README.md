@@ -6,6 +6,11 @@ Problem Statement - Our prototype aims to address the challenge of identifying i
 
 Team Leader Email - ksharma7_be21@thapar.edu 
 
+Output :
+
+![image](https://github.com/sharma-kshitij-ks/Empowering-Investors-Hackathon/assets/124446613/3945633b-4f18-4c67-ada2-812aee54f70f)
+
+
 A Brief of the Prototype: 
 UML Diagrams
 ![image](https://github.com/sharma-kshitij-ks/Empowering-Investors-Hackathon/assets/124446613/2f26e468-52b2-4d8b-a364-d971e618bda2)
